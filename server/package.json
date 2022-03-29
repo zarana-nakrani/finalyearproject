@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "server-finalproject",
+  "version": "1.0.0",
+  "description": "Final year project",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "author": "Zarana Nakrani",
+  "license": "ISC"
+}
